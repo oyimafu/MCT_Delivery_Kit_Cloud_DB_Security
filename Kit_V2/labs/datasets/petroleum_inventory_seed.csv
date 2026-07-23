@@ -1,0 +1,31 @@
+MovementID,StockItemID,SKU,FacilityID,FacilityCode,EquipmentID,MovementType,Quantity,MovementDate,ReferenceNote,RecordedBy
+1,1,SKU-VLV-001,1,FAC-LAG-01,1,RECEIPT,10,2026-01-10 09:00:00,PO-2026-001 Niger Valve & Fittings,a.okoro
+2,1,SKU-VLV-001,1,FAC-LAG-01,1,ISSUE,-2,2026-02-05 11:30:00,Replacement on Apapa Manifold Gate Valve,a.okoro
+3,2,SKU-VLV-002,4,FAC-PHC-01,,RECEIPT,15,2026-01-12 10:00:00,PO-2026-002 Niger Valve & Fittings,c.eze
+4,2,SKU-VLV-002,4,FAC-PHC-01,5,ISSUE,-3,2026-03-01 14:00:00,PH Export Isolation Valve maintenance,c.eze
+5,3,SKU-PMP-001,5,FAC-PHC-02,6,RECEIPT,20,2026-01-15 08:45:00,PO-2026-003 Delta Pumps Engineering,b.ibrahim
+6,3,SKU-PMP-001,5,FAC-PHC-02,6,ISSUE,-4,2026-02-20 13:10:00,Booster Pump 2 seal replacement,b.ibrahim
+7,4,SKU-PMP-002,8,FAC-WAR-02,10,RECEIPT,12,2026-01-18 09:20:00,PO-2026-004 Delta Pumps Engineering,o.tolu
+8,4,SKU-PMP-002,8,FAC-WAR-02,10,ISSUE,-2,2026-03-10 15:00:00,Warri Refinery Feed Pump overhaul,o.tolu
+9,5,SKU-MTR-001,2,FAC-LAG-02,3,RECEIPT,3,2026-01-20 10:00:00,PO-2026-005 PH Metering Systems,n.chukwu
+10,5,SKU-MTR-001,9,FAC-KAD-01,12,TRANSFER_IN,1,2026-04-02 09:00:00,Transferred from Ijegun Terminal,n.chukwu
+11,5,SKU-MTR-001,2,FAC-LAG-02,3,TRANSFER_OUT,-1,2026-04-02 09:00:00,Transferred to Kaduna Depot,n.chukwu
+12,6,SKU-MTR-002,5,FAC-PHC-02,7,RECEIPT,25,2026-01-22 11:00:00,PO-2026-006 PH Metering Systems,b.ibrahim
+13,6,SKU-MTR-002,5,FAC-PHC-02,7,ISSUE,-5,2026-05-01 10:30:00,Gauge calibration replacement batch,b.ibrahim
+14,7,SKU-PPE-001,1,FAC-LAG-01,,RECEIPT,100,2026-02-01 09:00:00,PO-2026-007 SafetyFirst PPE,a.okoro
+15,7,SKU-PPE-001,1,FAC-LAG-01,,ISSUE,-30,2026-02-15 08:00:00,Field team quarterly PPE issue,a.okoro
+16,7,SKU-PPE-001,4,FAC-PHC-01,,RECEIPT,80,2026-02-03 09:00:00,PO-2026-008 SafetyFirst PPE,c.eze
+17,8,SKU-PPE-002,1,FAC-LAG-01,,RECEIPT,120,2026-02-01 09:10:00,PO-2026-007 SafetyFirst PPE,a.okoro
+18,8,SKU-PPE-002,1,FAC-LAG-01,,ISSUE,-40,2026-02-15 08:05:00,Field team quarterly PPE issue,a.okoro
+19,9,SKU-PPE-003,3,FAC-LAG-03,,RECEIPT,15,2026-02-10 09:00:00,PO-2026-009 SafetyFirst PPE gas detectors,d.musa
+20,9,SKU-PPE-003,6,FAC-PHC-03,,RECEIPT,10,2026-02-11 09:00:00,PO-2026-010 SafetyFirst PPE gas detectors,e.wachukwu
+21,9,SKU-PPE-003,3,FAC-LAG-03,,ISSUE,-4,2026-03-05 10:00:00,Inspection team field kits,d.musa
+22,10,SKU-SPR-001,7,FAC-WAR-01,,RECEIPT,60,2026-02-14 09:00:00,PO-2026-011 Trans-Niger Spare Parts,o.tolu
+23,10,SKU-SPR-001,7,FAC-WAR-01,9,ISSUE,-10,2026-03-20 13:00:00,Warri Depot Gate Valve flange reseal,o.tolu
+24,10,SKU-SPR-001,4,FAC-PHC-01,4,ISSUE,-8,2026-04-10 13:00:00,PH Export custody meter reseal,c.eze
+25,11,SKU-TL-001,1,FAC-LAG-01,,RECEIPT,12,2026-02-16 09:00:00,PO-2026-012 Apapa Tools & Hardware,a.okoro
+26,11,SKU-TL-001,9,FAC-KAD-01,,RECEIPT,6,2026-02-18 09:00:00,PO-2026-013 Apapa Tools & Hardware,n.chukwu
+27,12,SKU-CMP-001,9,FAC-KAD-01,13,RECEIPT,30,2026-02-20 09:00:00,PO-2026-014 Northern Compressor Services,n.chukwu
+28,12,SKU-CMP-001,9,FAC-KAD-01,13,ISSUE,-6,2026-05-05 11:00:00,Compressor filter service Kaduna Depot,n.chukwu
+29,2,SKU-VLV-002,7,FAC-WAR-01,,ADJUSTMENT,-1,2026-05-15 09:00:00,Stock count variance correction,o.tolu
+30,6,SKU-MTR-002,9,FAC-KAD-01,,ADJUSTMENT,2,2026-05-16 09:00:00,Stock count variance correction,n.chukwu

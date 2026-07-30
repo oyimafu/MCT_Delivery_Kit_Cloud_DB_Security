@@ -2,7 +2,7 @@
 ## Cloud, Database & Cybersecurity Essentials — Integrated IT Fundamentals Training
 
 **Course context:** Oil & gas petroleum regulatory agency, Nigeria (NNPC Ltd / NUPRC / NMDPRA-type environment)
-**Duration:** Full Day 5 (approx. 6 working hours + oral defense)
+**Duration:** Full Day (approx. 6 working hours + oral defense)
 **Mode:** Individual or pairs (instructor's choice), hands-on in Azure
 
 ---
